@@ -1,4 +1,4 @@
-### Hi there 👋🏼
+👋🏼 Hi! I'm Teddy, learning software engineer. Would love to engage.
 
 ## Connect with me:
 [<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg">](mailto:asolatotieno@gmail.com)
