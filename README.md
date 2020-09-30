@@ -1,7 +1,7 @@
 ## 👋🏼 Hey, I'm Teddy!
 
 
-I'm a JavaScript Engineer from Kenya 🇰🇪 in love with React and Node. I currently work for Medable - A privately held company in Palo Alto, CA that is transforming life sciences with the leading global platform for decentralized clinical trials. 
+I'm a JavaScript Engineer from Kenya 🇰🇪 in love with React and Node. I currently work for [Medable](https://www.linkedin.com/company/medable-inc-/) - A privately held company in Palo Alto, CA that is transforming life sciences with the leading global platform for decentralized clinical trials. 
 
 If I'm not coding or reading, I'm obsessing over animations and VFX 😎
 
